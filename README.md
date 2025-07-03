@@ -9,12 +9,12 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 - **Background:** Mechanical Engineer (and proud computational nerd)
 - **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on optimization methods  
 - **Core Skills:**
-  - Spectral Element Method (SEM) for plates, shells, and stiffened structures
+  - Finite Element Method (FEM) and Spectral Element Method (SEM) for plates, shells, and stiffened structures
   - Python & MATLAB for scientific computing (hands-on, production-level code)
   - High-performance coding (MATLAB / C / Python / Julia)
   - Parallelization and optimization for large-scale simulations
   - Custom Genetic Algorithms for structural optimization (no black-boxes!)
-  - Deep learning (PyTorch, meta-learning) for regression & optimization
+  - Deep learning (transfer learning, meta-learning) for few-shot training & optimization
   - **Shell scripting and automation:** connecting Python, MATLAB, C, and Julia workflows—*everything can be connected!*
 
 ---
