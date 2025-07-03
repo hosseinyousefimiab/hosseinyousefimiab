@@ -7,14 +7,13 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 ## 👋 Who am I?
 
 - **Background:** Mechanical Engineer (and proud computational nerd)
-- **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on *composite panels with stiffeners*  
+- **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on optimization methods  
 - **Core Skills:**
   - Spectral Element Method (SEM) for plates, shells, and stiffened structures
   - Python & MATLAB for scientific computing (with hands-on, production-level code)
-  - High-performance code translation (MATLAB → C/C++/Python/JAX)
-  - Building large-scale datasets for ML on real mechanics problems
+  - High-performance codeing (MATLAB / C / Python)
   - Custom Genetic Algorithms for structural optimization (no black-boxes!)
-  - Deep learning (PyTorch, JAX, meta-learning) for regression & optimization
+  - Deep learning (PyTorch, meta-learning) for regression & optimization
 
 ---
 
@@ -34,14 +33,12 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 ## 📖 Publications & Presentations
 
 - (List to be updated; see Google Scholar link soon)
-- Conference talks: Topics on spectral methods, PINNs, and optimization of composite structures
 
 ---
 
 ## 🧰 Technical Stack
 
-- **Languages:** Python, MATLAB, C, JAX, PyTorch, C++ (prototyping & HPC)
-- **Core Libraries:** NumPy, SciPy, PyTorch, JAX, Optax, Haiku, Matplotlib
+- **Languages:** Python, MATLAB, C, Julia, (prototyping & HPC)
 - **Tools:** HPC clusters (SLURM), Git, VS Code, MobaXterm
 
 ---
@@ -53,8 +50,7 @@ I’m always open to:
 - Joint code development for SEM/PINN solvers or ML-for-mechanics
 - Academic exchange or co-supervision
 
-> Professors: If you’re interested in my work or potential collaborations, just [send me an email](mailto:your.email@domain.com)!  
-> (Replace with your actual email)
+> Professors: If you’re interested in my work or potential collaborations, just [send me an email](mailto:Hossein.yousefimiab@sabanciuniv.edu)!  
 
 ---
 
