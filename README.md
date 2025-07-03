@@ -117,6 +117,6 @@ I’m always open to:
   <br>
   <p align="center">
     <img src="https://i.imgur.com/yw1kd3t.jpeg" width="350"><br>
-    <em>Meet uh oh! looks like you have waken up Shapoor.<br>
+    <em>Uh oh! looks like you have waken up Shapoor.<br>
     Meet the real mastermind behind the code: Sir Shapoor the third.</em>
   </p>
