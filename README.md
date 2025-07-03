@@ -117,6 +117,6 @@ I’m always open to:
   <br>
   <p align="center">
     <img src="https://i.imgur.com/yw1kd3t.jpeg" width="350"><br>
-    <em>Meet the real mastermind behind the code: Shapoor.<br>
-    When things get stuck in local minima, she just naps.</em>
+    <em>Meet uh oh! looks like you have waken up Shapoor.<br>
+    Meet the real mastermind behind the code: Sir Shapoor the third.</em>
   </p>
