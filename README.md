@@ -1,15 +1,15 @@
 # hossein yousefimiab
 
-Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed with computational mechanics, spectral methods, and data-driven optimization of advanced composite structures.
+Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed with computational mechanics, spectral methods, metamaterials, and data-driven optimization of advanced composite structures.
 
 ---
 
 ## 👋 Who am I?
 
 - **Background:** Mechanical Engineer (and proud computational nerd)
-- **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on optimization methods  
+- **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on optimization methods, metamaterials, and periodic panels  
 - **Core Skills:**
-  - Finite Element Method (FEM) and Spectral Element Method (SEM) for plates, shells, and stiffened structures
+  - Finite Element Method (FEM) and Spectral Element Method (SEM) for plates, shells, stiffened structures, and periodic metamaterial panels
   - Python & MATLAB for scientific computing (hands-on, production-level code)
   - High-performance coding (MATLAB / C / Python / Julia)
   - Parallelization and optimization for large-scale simulations
@@ -22,11 +22,11 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 ## 🔬 Current & Recent Projects
 
 - **Meta-Learned Bayesian Optimization (MLBO):**  
-  Meta-learning with MAML and Transformers for few-shot optimization of composite panels (multi-stiffener, variable stacking sequences)
+  Meta-learning with MAML and Transformers for few-shot optimization of composite and periodic metamaterial panels (multi-stiffener, variable stacking sequences)
 - **Spectral PINNs & Modal Coefficient Regression:**  
-  Physics-informed neural networks with Chebyshev expansions, focusing on spectral accuracy and physical interpretability
-- **Curved Panel SEM:**  
-  Extending classic SEM for curved shells and arbitrary geometry, with periodic boundary conditions and 3D mapping
+  Physics-informed neural networks with Chebyshev expansions, focusing on spectral accuracy and physical interpretability for both classic and periodic structures
+- **Curved & Periodic Panel SEM:**  
+  Extending classic SEM for curved shells, periodic unit cells, and arbitrary geometry, with periodic boundary conditions and 3D mapping
 
 ---
 
@@ -40,7 +40,7 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 
 - **Languages:** Python, MATLAB, C, Julia (prototyping & HPC)
 - **Tools:** HPC clusters (SLURM), VS Code, MobaXterm, advanced shell scripting for automating workflows
-- **Parallelization:** Efficient use of multicore and cluster computing for simulation and optimization ( i can make better and faster)
+- **Parallelization:** Efficient use of multicore and cluster computing for simulation and optimization (I can make better and faster)
 
 ---
 
@@ -48,7 +48,7 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 
 I’m always open to:
 - International research projects on advanced simulation, meta-learning, or optimization
-- Joint code development for SEM/PINN solvers or ML-for-mechanics
+- Joint code development for SEM/PINN solvers or ML-for-mechanics and metamaterials
 - Academic exchange or co-supervision
 
 > Professors: If you’re interested in my work or potential collaborations, just [send me an email](mailto:Hossein.yousefimiab@sabanciuniv.edu)!
@@ -63,8 +63,8 @@ I’m always open to:
 - If it can be parallelized, I’ll make it faster; if it can be scripted, I’ll find a way.
 - I have strong opinions about code structure, reproducibility, and making sure every result is logged (for future me, mostly).
 - My research vibe: blend of theory and practice—no black-boxes, always seeking to understand “why” as much as “how.”
-- Ask me about spectral element methods, composite optimization, or which shell command will glue your workflow together.  
-- Favorite research break activity: "i wonder if there is way to make it faster...".
+- Ask me about spectral element methods, composite/metamaterial optimization, periodic panels, or which shell command will glue your workflow together.  
+- Favorite research break activity: “I wonder if there’s a way to make it faster...”
 - I believe *everything can be connected* (and should be, if you want to save time for the gym or real life).
 
 *Thanks for stopping by. If you want to collaborate, debate spectral codes, or need a clever automation hack, my inbox is open.*
