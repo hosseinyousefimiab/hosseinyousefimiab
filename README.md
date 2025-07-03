@@ -57,7 +57,14 @@ I’m always open to:
 
 ## ⚡ A bit more about me
 
-I’m practical, fast-iterating, and love “debugging” both code and real-world engineering ideas.  
-If you need to talk shop about composite structures, spectral codes, or want to optimize something that’s hard—**I’m in.**
+- I thrive on building and breaking things—both in code and in engineering.  
+- My style: rapid prototyping, fearless refactoring, and turning complex research ideas into working code (even if it means long nights with MATLAB and Python open side by side).
+- I love bridging “old-school” mechanics with new-school ML, and I get a kick out of automating what others say can’t be automated.
+- If it can be parallelized, I’ll make it faster; if it can be scripted, I’ll find a way.
+- I have strong opinions about code structure, reproducibility, and making sure every result is logged (for future me, mostly).
+- My research vibe: blend of theory and practice—no black-boxes, always seeking to understand “why” as much as “how.”
+- Ask me about spectral element methods, composite optimization, or which shell command will glue your workflow together.  
+- Favorite research break activity: plotting convergence curves or making my workflow one bash script shorter.
+- I believe *everything can be connected* (and should be, if you want to save time for the gym or real life).
 
-*Thanks for stopping by. For code, datasets, or just a good technical chat, check my pinned repos or drop me a message!*
+*Thanks for stopping by. If you want to collaborate, debate spectral codes, or need a clever automation hack, my inbox is open.*
