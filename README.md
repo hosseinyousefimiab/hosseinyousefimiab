@@ -39,7 +39,7 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 ## 🧰 Technical Stack
 
 - **Languages:** Python, MATLAB, C, Julia (prototyping & HPC)
-- **Tools:** HPC clusters (SLURM), Git, VS Code, MobaXterm, advanced shell scripting for automating workflows
+- **Tools:** HPC clusters (SLURM), VS Code, MobaXterm, advanced shell scripting for automating workflows
 - **Parallelization:** Efficient use of multicore and cluster computing for simulation and optimization
 
 ---
