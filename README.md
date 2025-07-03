@@ -81,3 +81,27 @@ I’m always open to:
 - I believe *everything can be connected* (and should be, if you want to save time for the gym or real life).
 
 *Thanks for stopping by. If you want to collaborate, debate spectral codes, or need a clever automation hack, my inbox is open.*
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+<details>
+  <summary>🐾 Click at your own risk</summary>
+  <br>
+  <p align="center">
+    <img src="https://i.imgur.com/yourcatpic.jpg](https://i.ibb.co/GfnJHqQx/shapoor.jpg" width="350"><br>
+    <em>Meet the real optimizer behind the code: My cat.<br>
+    When things get stuck in local minima, she just naps.</em>
+  </p>
