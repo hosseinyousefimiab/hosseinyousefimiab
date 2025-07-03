@@ -1,56 +1,67 @@
 # hossein yousefimiab
 
-Welcome! I’m **Hossein Yousefimiab**, a passionate computational mechanics researcher with a deep love for spectral methods, composite structures, and machine learning for engineering problems.
+Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed with computational mechanics, spectral methods, and data-driven optimization of advanced composite structures.
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Who am I?
 
-- **Current Role:** Graduate student & researcher, specializing in computational solid mechanics and structural optimization.
-- **Research Interests:**
-  - Spectral Element Methods (SEM)
-  - Physics-Informed Neural Networks (PINN)
-  - Composite Plate and Shell Structures
-  - Meta-Learning & Transfer Learning for Mechanics
-  - High-Performance Computing (HPC)
-- **Programming:** Python, MATLAB, C/C++, JAX, PyTorch
-
----
-
-## 🛠️ Highlighted Projects
-
-- **Meta-Learned Bayesian Optimization for Composite Plates:**  
-  Developing MLBO frameworks to optimize fiber orientations in complex structures.
-- **Spectral PINNs for Plates & Shells:**  
-  Solving PDEs using spectral bases with PINN, aiming for both accuracy and physical consistency.
-- **Automated Data Generation for Composite Panels:**  
-  Python + MATLAB pipeline for large-scale simulation and meta-learning datasets.
+- **Background:** Mechanical Engineer (and proud computational nerd)
+- **Current Focus:** Graduate research in spectral and meta-learning methods for structural analysis and design, especially on *composite panels with stiffeners*  
+- **Core Skills:**
+  - Spectral Element Method (SEM) for plates, shells, and stiffened structures
+  - Python & MATLAB for scientific computing (with hands-on, production-level code)
+  - High-performance code translation (MATLAB → C/C++/Python/JAX)
+  - Building large-scale datasets for ML on real mechanics problems
+  - Custom Genetic Algorithms for structural optimization (no black-boxes!)
+  - Deep learning (PyTorch, JAX, meta-learning) for regression & optimization
 
 ---
 
-## 📚 Publications & Talks
+## 🔬 Current & Recent Projects
 
-- See [my Google Scholar](#) (update link!) or [ResearchGate](#) for publications and talks.
-- I regularly present at mechanics and AI conferences.
-
----
-
-## 🤝 Looking to Collaborate?
-
-I'm always open to new research opportunities, multi-institutional projects, and academic collaborations—especially at the intersection of computational mechanics and modern ML.
-
-Feel free to reach out!  
-- [Email](mailto:your.email@domain.com)
-- [LinkedIn](#)  
-- [Twitter/X](#)
+- **Meta-Learned Bayesian Optimization (MLBO)**  
+  Meta-learning with MAML and Transformers for few-shot optimization of composite panels (multi-stiffener, variable stacking sequences)
+- **Spectral PINNs & Modal Coefficient Regression**  
+  Physics-informed neural networks with Chebyshev expansions, focusing on spectral accuracy and physical interpretability
+- **Automated Simulation Pipelines**  
+  Generating 500,000+ structural datasets via MATLAB + Python, with full workflow for transfer/meta-learning
+- **Curved Panel SEM**  
+  Extending classic SEM for curved shells and arbitrary geometry, with periodic boundary conditions and 3D mapping
 
 ---
 
-## ⚡️ Fun Fact
+## 📖 Publications & Presentations
 
-Outside of research, I enjoy discussing novel optimization methods, exploring new algorithms, and occasionally (maybe too often) hunting for the best gym bag or laptop setup.
+- (List to be updated; see Google Scholar link soon)
+- Conference talks: Topics on spectral methods, PINNs, and optimization of composite structures
 
 ---
 
-*Thanks for visiting my GitHub!*
+## 🧰 Technical Stack
+
+- **Languages:** Python, MATLAB, C, JAX, PyTorch, C++ (prototyping & HPC)
+- **Core Libraries:** NumPy, SciPy, PyTorch, JAX, Optax, Haiku, Matplotlib
+- **Tools:** HPC clusters (SLURM), Git, VS Code, MobaXterm
+
+---
+
+## 🤝 Let’s Collaborate!
+
+I’m always open to:
+- International research projects on advanced simulation, meta-learning, or optimization
+- Joint code development for SEM/PINN solvers or ML-for-mechanics
+- Academic exchange or co-supervision
+
+> Professors: If you’re interested in my work or potential collaborations, just [send me an email](mailto:your.email@domain.com)!  
+> (Replace with your actual email)
+
+---
+
+## ⚡ A bit more about me
+
+I’m practical, fast-iterating, and love “debugging” both code and real-world engineering ideas.  
+If you need to talk shop about composite structures, spectral codes, or want to optimize something that’s hard—**I’m in.**
+
+*Thanks for stopping by. For code, datasets, or just a good technical chat, check my pinned repos or drop me a message!*
 
