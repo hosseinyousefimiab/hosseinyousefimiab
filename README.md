@@ -40,7 +40,7 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
 
 - **Languages:** Python, MATLAB, C, Julia (prototyping & HPC)
 - **Tools:** HPC clusters (SLURM), VS Code, MobaXterm, advanced shell scripting for automating workflows
-- **Parallelization:** Efficient use of multicore and cluster computing for simulation and optimization
+- **Parallelization:** Efficient use of multicore and cluster computing for simulation and optimization ( i can make better and faster)
 
 ---
 
