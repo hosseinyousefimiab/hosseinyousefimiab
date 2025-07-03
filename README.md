@@ -27,6 +27,19 @@ Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed wit
   Physics-informed neural networks with Chebyshev expansions, focusing on spectral accuracy and physical interpretability for both classic and periodic structures
 - **Curved & Periodic Panel SEM:**  
   Extending classic SEM for curved shells, periodic unit cells, and arbitrary geometry, with periodic boundary conditions and 3D mapping
+- **Custom Genetic Algorithms:**  
+  Building GA frameworks from scratch for stacking sequence and topology optimization—never relying on black-box software
+- **Data-Driven Model Development:**  
+  Creating huge datasets, preprocessing pipelines, and workflow automation for ML tasks (Python ↔ MATLAB ↔ C)
+- **Parallelization & HPC:**  
+  Efficiently scaling solvers and simulation pipelines to multi-core, cluster, and cloud resources
+- **Workflow Automation:**  
+  Shell scripting and cross-language orchestration to glue together MATLAB, Python, C, and Julia environments
+- **Consulting on Everything Computational:**  
+  FEM troubleshooting, periodic boundary conditions, model validation, debugging, and “how do I make this run 10x faster?” support for research colleagues
+
+*If it’s hard, multidisciplinary, or never been done quite like this—I want to try it.*
+
 
 ---
 
