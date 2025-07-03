@@ -83,8 +83,11 @@ I’m always open to:
 *Thanks for stopping by. If you want to collaborate, debate spectral codes, or need a clever automation hack, my inbox is open.*
 
 .
+
 .
+
 .
+
 .
 .
 .
@@ -102,6 +105,6 @@ I’m always open to:
   <br>
   <p align="center">
     <img src="https://i.imgur.com/yw1kd3t.jpeg" width="350"><br>
-    <em>Meet the real optimizer behind the code: My cat.<br>
+    <em>Meet the real mastermind behind the code: Shapoor.<br>
     When things get stuck in local minima, she just naps.</em>
   </p>
