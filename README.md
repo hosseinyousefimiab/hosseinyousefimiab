@@ -3,6 +3,27 @@
 Welcome! I’m **Hossein Yousefimiab**—an early-career researcher obsessed with computational mechanics, spectral methods, metamaterials, and data-driven optimization of advanced composite structures.
 
 ---
+<p align="center">
+  <!-- Python version -->
+  <img alt="Python" src="https://img.shields.io/badge/python-3.8%2B-blue?logo=python&logoColor=white" />
+  <!-- MATLAB -->
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-%230079d1.svg?logo=mathworks&logoColor=white" />
+  <!-- C language -->
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <!-- Julia language -->
+  <img alt="Julia" src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" />
+  <!-- PyTorch -->
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" />
+  <!-- HPC -->
+  <img alt="HPC" src="https://img.shields.io/badge/HPC-Cluster-blueviolet?logo=slurm&logoColor=white" />
+  <!-- Shell Scripting -->
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+  <!-- SLURM -->
+  <img alt="SLURM" src="https://img.shields.io/badge/SLURM-Job%20Scheduler-brightgreen?logo=slurm&logoColor=white" />
+  <!-- VS Code -->
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />
+  <!-- Linux -->
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-🐧-yellowgreen" />
 
 ## 👋 Who am I?
 
